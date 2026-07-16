@@ -40,5 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1484-group-sold-products-by-the-date) |
+| [1527-patients-with-a-condition](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1527-patients-with-a-condition) |
 | [1729-find-followers-count](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
