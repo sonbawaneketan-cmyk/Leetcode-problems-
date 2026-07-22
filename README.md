@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1729-find-followers-count) |
 | [3570-find-books-with-no-available-copies](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
