@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-products-with-valid-serial-numbers">3803. Find Products with Valid Serial Numbers</a></h2><h3>Easy</h3><hr><p>Table: <code>products</code></p>
+<h2><a href="https://leetcode.com/problems/find-products-with-valid-serial-numbers">3465. Find Products with Valid Serial Numbers</a></h2><h3>Easy</h3><hr><p>Table: <code>products</code></p>
 
 <pre>
 +--------------+------------+
