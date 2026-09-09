@@ -2,16 +2,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0178-rank-scores) |
@@ -19,7 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0197-rising-temperature) |
-| [0550-game-play-analysis-iv](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0550-game-play-analysis-iv) |
+| [0550-game-play-analysis-iv](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0584-find-customer-referee) |
