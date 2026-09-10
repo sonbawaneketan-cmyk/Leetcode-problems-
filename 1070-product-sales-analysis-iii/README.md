@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/product-sales-analysis-iii">1155. Product Sales Analysis III</a></h2><h3>Medium</h3><hr><p>Table: <code>Sales</code></p>
+<h2><a href="https://leetcode.com/problems/product-sales-analysis-iii">1070. Product Sales Analysis III</a></h2><h3>Medium</h3><hr><p>Table: <code>Sales</code></p>
 
 <pre>
 +-------------+-------+
