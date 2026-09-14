@@ -2,16 +2,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0178-rank-scores) |
@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1890-the-latest-login-in-2020) |
