@@ -2,16 +2,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0178-rank-scores) |
@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1158-market-analysis-i) |
+| [1164-product-price-at-a-given-date](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1193-monthly-transactions-i) |
