@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/product-price-at-a-given-date">1278. Product Price at a Given Date</a></h2><h3>Medium</h3><hr><p>Table: <code>Products</code></p>
+<h2><a href="https://leetcode.com/problems/product-price-at-a-given-date">1164. Product Price at a Given Date</a></h2><h3>Medium</h3><hr><p>Table: <code>Products</code></p>
 
 <pre>
 +---------------+---------+
