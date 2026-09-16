@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/last-person-to-fit-in-the-bus">1327. Last Person to Fit in the Bus</a></h2><h3>Medium</h3><hr><p>Table: <code>Queue</code></p>
+<h2><a href="https://leetcode.com/problems/last-person-to-fit-in-the-bus">1204. Last Person to Fit in the Bus</a></h2><h3>Medium</h3><hr><p>Table: <code>Queue</code></p>
 
 <pre>
 +-------------+---------+
