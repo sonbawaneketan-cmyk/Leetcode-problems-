@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/movie-rating">1480. Movie Rating</a></h2><h3>Medium</h3><hr><p>Table: <code>Movies</code></p>
+<h2><a href="https://leetcode.com/problems/movie-rating">1341. Movie Rating</a></h2><h3>Medium</h3><hr><p>Table: <code>Movies</code></p>
 
 <pre>
 +---------------+---------+
