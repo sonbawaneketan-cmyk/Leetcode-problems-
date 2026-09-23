@@ -2,16 +2,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0178-rank-scores) |
