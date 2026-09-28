@@ -2,22 +2,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/main/0180-consecutive-numbers/) | Medium |
 | [0183-customers-who-never-order](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/main/0550-game-play-analysis-iv/) | Medium |
