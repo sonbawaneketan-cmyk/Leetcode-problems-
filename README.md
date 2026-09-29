@@ -2,16 +2,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0001-two-sum) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/0178-rank-scores) |
@@ -65,7 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1661-average-time-of-process-per-machine) |
-| [1667-fix-names-in-a-table](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1667-fix-names-in-a-table) |
+| [1667-fix-names-in-a-table](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/sonbawaneketan-cmyk/Leetcode-problems-/tree/master/1729-find-followers-count) |
