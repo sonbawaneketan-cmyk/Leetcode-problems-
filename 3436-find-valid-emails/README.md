@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-valid-emails">3436. Find Valid Emails</a></h2><h3>Easy</h3><hr><p>Table: <code>Users</code></p>
+<h2><a href="https://leetcode.com/problems/find-valid-emails">3782. Find Valid Emails</a></h2><h3>Easy</h3><hr><p>Table: <code>Users</code></p>
 
 <pre>
 +-----------------+---------+
