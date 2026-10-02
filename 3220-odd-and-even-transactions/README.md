@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/odd-and-even-transactions">3220. Odd and Even Transactions</a></h2><h3>Medium</h3><hr><p>Table: <code>transactions</code></p>
+<h2><a href="https://leetcode.com/problems/odd-and-even-transactions">3530. Odd and Even Transactions</a></h2><h3>Medium</h3><hr><p>Table: <code>transactions</code></p>
 
 <pre>
 +------------------+------+
