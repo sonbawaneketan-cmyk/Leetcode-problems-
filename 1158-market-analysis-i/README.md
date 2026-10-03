@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/market-analysis-i">1268. Market Analysis I</a></h2><h3>Medium</h3><hr><p>Table: <code>Users</code></p>
+<h2><a href="https://leetcode.com/problems/market-analysis-i">1158. Market Analysis I</a></h2><h3>Medium</h3><hr><p>Table: <code>Users</code></p>
 
 <pre>
 +----------------+---------+
