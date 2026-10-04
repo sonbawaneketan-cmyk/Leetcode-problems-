@@ -1,7 +1,9 @@
-SELECT name,sum(
-	if(distance is NULL,0,distance)
-	) as travelled_distance
+# Write your MySQL query statement below
+SELECT
+    u.name,
+    COALESCE(SUM(r.distance), 0) AS travelled_distance
 FROM Users u
-LEFT JOIN Rides r ON u.id=r.user_id
-GROUP BY User_id
-ORDER BY travelled_distance desc,name asc
+LEFT JOIN Rides r
+    ON u.id = r.user_id
+GROUP BY u.id, u.name
+ORDER BY travelled_distance DESC, u.name ASC;
