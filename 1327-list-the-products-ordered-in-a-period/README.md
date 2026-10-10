@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/list-the-products-ordered-in-a-period">1462. List the Products Ordered in a Period</a></h2><h3>Easy</h3><hr><p>Table: <code>Products</code></p>
+<h2><a href="https://leetcode.com/problems/list-the-products-ordered-in-a-period">1327. List the Products Ordered in a Period</a></h2><h3>Easy</h3><hr><p>Table: <code>Products</code></p>
 
 <pre>
 +------------------+---------+
