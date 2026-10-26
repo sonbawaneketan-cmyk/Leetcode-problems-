@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-books-with-polarized-opinions">3642. Find Books with Polarized Opinions</a></h2><h3>Medium</h3><hr><p>Table: <code>books</code></p>
+<h2><a href="https://leetcode.com/problems/find-books-with-polarized-opinions">3996. Find Books with Polarized Opinions</a></h2><h3>Medium</h3><hr><p>Table: <code>books</code></p>
 
 <pre>
 +-------------+---------+
